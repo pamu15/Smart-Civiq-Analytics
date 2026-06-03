@@ -1,0 +1,698 @@
+{
+  "heatmap": [
+    {
+      "day_of_week": 0,
+      "hour_of_day": 8,
+      "wait_time_minutes": 129.8,
+      "day_name": "Monday"
+    },
+    {
+      "day_of_week": 0,
+      "hour_of_day": 9,
+      "wait_time_minutes": 107.5,
+      "day_name": "Monday"
+    },
+    {
+      "day_of_week": 0,
+      "hour_of_day": 10,
+      "wait_time_minutes": 108.1,
+      "day_name": "Monday"
+    },
+    {
+      "day_of_week": 0,
+      "hour_of_day": 11,
+      "wait_time_minutes": 105.9,
+      "day_name": "Monday"
+    },
+    {
+      "day_of_week": 0,
+      "hour_of_day": 12,
+      "wait_time_minutes": 113.6,
+      "day_name": "Monday"
+    },
+    {
+      "day_of_week": 0,
+      "hour_of_day": 13,
+      "wait_time_minutes": 118.7,
+      "day_name": "Monday"
+    },
+    {
+      "day_of_week": 0,
+      "hour_of_day": 14,
+      "wait_time_minutes": 108.8,
+      "day_name": "Monday"
+    },
+    {
+      "day_of_week": 0,
+      "hour_of_day": 15,
+      "wait_time_minutes": 106.9,
+      "day_name": "Monday"
+    },
+    {
+      "day_of_week": 0,
+      "hour_of_day": 16,
+      "wait_time_minutes": 116.4,
+      "day_name": "Monday"
+    },
+    {
+      "day_of_week": 0,
+      "hour_of_day": 17,
+      "wait_time_minutes": 114.9,
+      "day_name": "Monday"
+    },
+    {
+      "day_of_week": 0,
+      "hour_of_day": 18,
+      "wait_time_minutes": 115.9,
+      "day_name": "Monday"
+    },
+    {
+      "day_of_week": 0,
+      "hour_of_day": 19,
+      "wait_time_minutes": 115.5,
+      "day_name": "Monday"
+    },
+    {
+      "day_of_week": 0,
+      "hour_of_day": 20,
+      "wait_time_minutes": 146.0,
+      "day_name": "Monday"
+    },
+    {
+      "day_of_week": 1,
+      "hour_of_day": 8,
+      "wait_time_minutes": 129.0,
+      "day_name": "Tuesday"
+    },
+    {
+      "day_of_week": 1,
+      "hour_of_day": 9,
+      "wait_time_minutes": 109.7,
+      "day_name": "Tuesday"
+    },
+    {
+      "day_of_week": 1,
+      "hour_of_day": 10,
+      "wait_time_minutes": 101.6,
+      "day_name": "Tuesday"
+    },
+    {
+      "day_of_week": 1,
+      "hour_of_day": 11,
+      "wait_time_minutes": 107.4,
+      "day_name": "Tuesday"
+    },
+    {
+      "day_of_week": 1,
+      "hour_of_day": 12,
+      "wait_time_minutes": 117.7,
+      "day_name": "Tuesday"
+    },
+    {
+      "day_of_week": 1,
+      "hour_of_day": 13,
+      "wait_time_minutes": 117.6,
+      "day_name": "Tuesday"
+    },
+    {
+      "day_of_week": 1,
+      "hour_of_day": 14,
+      "wait_time_minutes": 109.9,
+      "day_name": "Tuesday"
+    },
+    {
+      "day_of_week": 1,
+      "hour_of_day": 15,
+      "wait_time_minutes": 107.8,
+      "day_name": "Tuesday"
+    },
+    {
+      "day_of_week": 1,
+      "hour_of_day": 16,
+      "wait_time_minutes": 112.9,
+      "day_name": "Tuesday"
+    },
+    {
+      "day_of_week": 1,
+      "hour_of_day": 17,
+      "wait_time_minutes": 115.7,
+      "day_name": "Tuesday"
+    },
+    {
+      "day_of_week": 1,
+      "hour_of_day": 18,
+      "wait_time_minutes": 113.6,
+      "day_name": "Tuesday"
+    },
+    {
+      "day_of_week": 1,
+      "hour_of_day": 19,
+      "wait_time_minutes": 119.7,
+      "day_name": "Tuesday"
+    },
+    {
+      "day_of_week": 1,
+      "hour_of_day": 20,
+      "wait_time_minutes": 147.4,
+      "day_name": "Tuesday"
+    },
+    {
+      "day_of_week": 2,
+      "hour_of_day": 8,
+      "wait_time_minutes": 130.4,
+      "day_name": "Wednesday"
+    },
+    {
+      "day_of_week": 2,
+      "hour_of_day": 9,
+      "wait_time_minutes": 107.8,
+      "day_name": "Wednesday"
+    },
+    {
+      "day_of_week": 2,
+      "hour_of_day": 10,
+      "wait_time_minutes": 104.5,
+      "day_name": "Wednesday"
+    },
+    {
+      "day_of_week": 2,
+      "hour_of_day": 11,
+      "wait_time_minutes": 108.9,
+      "day_name": "Wednesday"
+    },
+    {
+      "day_of_week": 2,
+      "hour_of_day": 12,
+      "wait_time_minutes": 119.4,
+      "day_name": "Wednesday"
+    },
+    {
+      "day_of_week": 2,
+      "hour_of_day": 13,
+      "wait_time_minutes": 116.2,
+      "day_name": "Wednesday"
+    },
+    {
+      "day_of_week": 2,
+      "hour_of_day": 14,
+      "wait_time_minutes": 111.8,
+      "day_name": "Wednesday"
+    },
+    {
+      "day_of_week": 2,
+      "hour_of_day": 15,
+      "wait_time_minutes": 108.3,
+      "day_name": "Wednesday"
+    },
+    {
+      "day_of_week": 2,
+      "hour_of_day": 16,
+      "wait_time_minutes": 114.2,
+      "day_name": "Wednesday"
+    },
+    {
+      "day_of_week": 2,
+      "hour_of_day": 17,
+      "wait_time_minutes": 113.8,
+      "day_name": "Wednesday"
+    },
+    {
+      "day_of_week": 2,
+      "hour_of_day": 18,
+      "wait_time_minutes": 116.3,
+      "day_name": "Wednesday"
+    },
+    {
+      "day_of_week": 2,
+      "hour_of_day": 19,
+      "wait_time_minutes": 118.1,
+      "day_name": "Wednesday"
+    },
+    {
+      "day_of_week": 2,
+      "hour_of_day": 20,
+      "wait_time_minutes": 148.9,
+      "day_name": "Wednesday"
+    },
+    {
+      "day_of_week": 3,
+      "hour_of_day": 8,
+      "wait_time_minutes": 132.2,
+      "day_name": "Thursday"
+    },
+    {
+      "day_of_week": 3,
+      "hour_of_day": 9,
+      "wait_time_minutes": 109.3,
+      "day_name": "Thursday"
+    },
+    {
+      "day_of_week": 3,
+      "hour_of_day": 10,
+      "wait_time_minutes": 104.5,
+      "day_name": "Thursday"
+    },
+    {
+      "day_of_week": 3,
+      "hour_of_day": 11,
+      "wait_time_minutes": 106.3,
+      "day_name": "Thursday"
+    },
+    {
+      "day_of_week": 3,
+      "hour_of_day": 12,
+      "wait_time_minutes": 116.6,
+      "day_name": "Thursday"
+    },
+    {
+      "day_of_week": 3,
+      "hour_of_day": 13,
+      "wait_time_minutes": 117.8,
+      "day_name": "Thursday"
+    },
+    {
+      "day_of_week": 3,
+      "hour_of_day": 14,
+      "wait_time_minutes": 111.9,
+      "day_name": "Thursday"
+    },
+    {
+      "day_of_week": 3,
+      "hour_of_day": 15,
+      "wait_time_minutes": 108.1,
+      "day_name": "Thursday"
+    },
+    {
+      "day_of_week": 3,
+      "hour_of_day": 16,
+      "wait_time_minutes": 114.8,
+      "day_name": "Thursday"
+    },
+    {
+      "day_of_week": 3,
+      "hour_of_day": 17,
+      "wait_time_minutes": 115.1,
+      "day_name": "Thursday"
+    },
+    {
+      "day_of_week": 3,
+      "hour_of_day": 18,
+      "wait_time_minutes": 116.4,
+      "day_name": "Thursday"
+    },
+    {
+      "day_of_week": 3,
+      "hour_of_day": 19,
+      "wait_time_minutes": 115.7,
+      "day_name": "Thursday"
+    },
+    {
+      "day_of_week": 3,
+      "hour_of_day": 20,
+      "wait_time_minutes": 152.1,
+      "day_name": "Thursday"
+    },
+    {
+      "day_of_week": 4,
+      "hour_of_day": 8,
+      "wait_time_minutes": 130.9,
+      "day_name": "Friday"
+    },
+    {
+      "day_of_week": 4,
+      "hour_of_day": 9,
+      "wait_time_minutes": 112.0,
+      "day_name": "Friday"
+    },
+    {
+      "day_of_week": 4,
+      "hour_of_day": 10,
+      "wait_time_minutes": 106.5,
+      "day_name": "Friday"
+    },
+    {
+      "day_of_week": 4,
+      "hour_of_day": 11,
+      "wait_time_minutes": 109.9,
+      "day_name": "Friday"
+    },
+    {
+      "day_of_week": 4,
+      "hour_of_day": 12,
+      "wait_time_minutes": 119.1,
+      "day_name": "Friday"
+    },
+    {
+      "day_of_week": 4,
+      "hour_of_day": 13,
+      "wait_time_minutes": 115.3,
+      "day_name": "Friday"
+    },
+    {
+      "day_of_week": 4,
+      "hour_of_day": 14,
+      "wait_time_minutes": 110.7,
+      "day_name": "Friday"
+    },
+    {
+      "day_of_week": 4,
+      "hour_of_day": 15,
+      "wait_time_minutes": 105.7,
+      "day_name": "Friday"
+    },
+    {
+      "day_of_week": 4,
+      "hour_of_day": 16,
+      "wait_time_minutes": 114.0,
+      "day_name": "Friday"
+    },
+    {
+      "day_of_week": 4,
+      "hour_of_day": 17,
+      "wait_time_minutes": 116.8,
+      "day_name": "Friday"
+    },
+    {
+      "day_of_week": 4,
+      "hour_of_day": 18,
+      "wait_time_minutes": 116.0,
+      "day_name": "Friday"
+    },
+    {
+      "day_of_week": 4,
+      "hour_of_day": 19,
+      "wait_time_minutes": 120.7,
+      "day_name": "Friday"
+    },
+    {
+      "day_of_week": 4,
+      "hour_of_day": 20,
+      "wait_time_minutes": 149.9,
+      "day_name": "Friday"
+    },
+    {
+      "day_of_week": 5,
+      "hour_of_day": 8,
+      "wait_time_minutes": 182.6,
+      "day_name": "Saturday"
+    },
+    {
+      "day_of_week": 5,
+      "hour_of_day": 9,
+      "wait_time_minutes": 180.8,
+      "day_name": "Saturday"
+    },
+    {
+      "day_of_week": 5,
+      "hour_of_day": 10,
+      "wait_time_minutes": 190.1,
+      "day_name": "Saturday"
+    },
+    {
+      "day_of_week": 5,
+      "hour_of_day": 11,
+      "wait_time_minutes": 179.8,
+      "day_name": "Saturday"
+    },
+    {
+      "day_of_week": 5,
+      "hour_of_day": 12,
+      "wait_time_minutes": 218.8,
+      "day_name": "Saturday"
+    },
+    {
+      "day_of_week": 5,
+      "hour_of_day": 13,
+      "wait_time_minutes": 156.7,
+      "day_name": "Saturday"
+    },
+    {
+      "day_of_week": 5,
+      "hour_of_day": 14,
+      "wait_time_minutes": 216.9,
+      "day_name": "Saturday"
+    },
+    {
+      "day_of_week": 5,
+      "hour_of_day": 15,
+      "wait_time_minutes": 186.6,
+      "day_name": "Saturday"
+    },
+    {
+      "day_of_week": 5,
+      "hour_of_day": 16,
+      "wait_time_minutes": 191.5,
+      "day_name": "Saturday"
+    },
+    {
+      "day_of_week": 5,
+      "hour_of_day": 17,
+      "wait_time_minutes": 222.7,
+      "day_name": "Saturday"
+    },
+    {
+      "day_of_week": 5,
+      "hour_of_day": 18,
+      "wait_time_minutes": 163.6,
+      "day_name": "Saturday"
+    },
+    {
+      "day_of_week": 5,
+      "hour_of_day": 19,
+      "wait_time_minutes": 166.1,
+      "day_name": "Saturday"
+    },
+    {
+      "day_of_week": 5,
+      "hour_of_day": 20,
+      "wait_time_minutes": 145.1,
+      "day_name": "Saturday"
+    },
+    {
+      "day_of_week": 6,
+      "hour_of_day": 8,
+      "wait_time_minutes": 217.0,
+      "day_name": "Sunday"
+    },
+    {
+      "day_of_week": 6,
+      "hour_of_day": 9,
+      "wait_time_minutes": 199.1,
+      "day_name": "Sunday"
+    },
+    {
+      "day_of_week": 6,
+      "hour_of_day": 10,
+      "wait_time_minutes": 192.8,
+      "day_name": "Sunday"
+    },
+    {
+      "day_of_week": 6,
+      "hour_of_day": 11,
+      "wait_time_minutes": 199.3,
+      "day_name": "Sunday"
+    },
+    {
+      "day_of_week": 6,
+      "hour_of_day": 12,
+      "wait_time_minutes": 209.3,
+      "day_name": "Sunday"
+    },
+    {
+      "day_of_week": 6,
+      "hour_of_day": 13,
+      "wait_time_minutes": 177.9,
+      "day_name": "Sunday"
+    },
+    {
+      "day_of_week": 6,
+      "hour_of_day": 14,
+      "wait_time_minutes": 195.6,
+      "day_name": "Sunday"
+    },
+    {
+      "day_of_week": 6,
+      "hour_of_day": 15,
+      "wait_time_minutes": 199.0,
+      "day_name": "Sunday"
+    },
+    {
+      "day_of_week": 6,
+      "hour_of_day": 16,
+      "wait_time_minutes": 187.9,
+      "day_name": "Sunday"
+    },
+    {
+      "day_of_week": 6,
+      "hour_of_day": 17,
+      "wait_time_minutes": 205.4,
+      "day_name": "Sunday"
+    },
+    {
+      "day_of_week": 6,
+      "hour_of_day": 18,
+      "wait_time_minutes": 210.9,
+      "day_name": "Sunday"
+    },
+    {
+      "day_of_week": 6,
+      "hour_of_day": 19,
+      "wait_time_minutes": 194.3,
+      "day_name": "Sunday"
+    },
+    {
+      "day_of_week": 6,
+      "hour_of_day": 20,
+      "wait_time_minutes": 212.7,
+      "day_name": "Sunday"
+    }
+  ],
+  "best_slots": [
+    {
+      "day_name": "Tuesday",
+      "hour_of_day": 10,
+      "wait_time_minutes": 101.6
+    },
+    {
+      "day_name": "Wednesday",
+      "hour_of_day": 10,
+      "wait_time_minutes": 104.5
+    },
+    {
+      "day_name": "Thursday",
+      "hour_of_day": 10,
+      "wait_time_minutes": 104.5
+    },
+    {
+      "day_name": "Friday",
+      "hour_of_day": 15,
+      "wait_time_minutes": 105.7
+    },
+    {
+      "day_name": "Monday",
+      "hour_of_day": 11,
+      "wait_time_minutes": 105.9
+    }
+  ],
+  "worst_slots": [
+    {
+      "day_name": "Saturday",
+      "hour_of_day": 17,
+      "wait_time_minutes": 222.7
+    },
+    {
+      "day_name": "Saturday",
+      "hour_of_day": 12,
+      "wait_time_minutes": 218.8
+    },
+    {
+      "day_name": "Sunday",
+      "hour_of_day": 8,
+      "wait_time_minutes": 217.0
+    },
+    {
+      "day_name": "Saturday",
+      "hour_of_day": 14,
+      "wait_time_minutes": 216.9
+    },
+    {
+      "day_name": "Sunday",
+      "hour_of_day": 20,
+      "wait_time_minutes": 212.7
+    }
+  ],
+  "hourly_avg": {
+    "8": 138.4,
+    "9": 119.2,
+    "10": 116.1,
+    "11": 117.8,
+    "12": 129.6,
+    "13": 123.2,
+    "14": 123.1,
+    "15": 118.1,
+    "16": 124.1,
+    "17": 128.1,
+    "18": 123.8,
+    "19": 125.4,
+    "20": 151.2
+  },
+  "daily_avg": {
+    "Friday": 117.5,
+    "Monday": 116.0,
+    "Saturday": 184.5,
+    "Sunday": 200.0,
+    "Thursday": 116.9,
+    "Tuesday": 116.1,
+    "Wednesday": 116.8
+  },
+  "per_place": {
+    "RTO Office Pune": [
+      {
+        "day_name": "Saturday",
+        "hour_of_day": 20,
+        "wait_time_minutes": 78.8
+      },
+      {
+        "day_name": "Wednesday",
+        "hour_of_day": 16,
+        "wait_time_minutes": 114.6
+      },
+      {
+        "day_name": "Thursday",
+        "hour_of_day": 10,
+        "wait_time_minutes": 114.6
+      }
+    ],
+    "City Hospital OPD": [
+      {
+        "day_name": "Monday",
+        "hour_of_day": 11,
+        "wait_time_minutes": 120.8
+      },
+      {
+        "day_name": "Friday",
+        "hour_of_day": 13,
+        "wait_time_minutes": 122.0
+      },
+      {
+        "day_name": "Wednesday",
+        "hour_of_day": 9,
+        "wait_time_minutes": 122.4
+      }
+    ],
+    "SBI Bank Branch": [
+      {
+        "day_name": "Monday",
+        "hour_of_day": 19,
+        "wait_time_minutes": 62.9
+      },
+      {
+        "day_name": "Thursday",
+        "hour_of_day": 19,
+        "wait_time_minutes": 62.9
+      },
+      {
+        "day_name": "Friday",
+        "hour_of_day": 17,
+        "wait_time_minutes": 63.0
+      }
+    ],
+    "Passport Seva Kendra": [
+      {
+        "day_name": "Tuesday",
+        "hour_of_day": 14,
+        "wait_time_minutes": 99.9
+      },
+      {
+        "day_name": "Tuesday",
+        "hour_of_day": 10,
+        "wait_time_minutes": 101.8
+      },
+      {
+        "day_name": "Monday",
+        "hour_of_day": 15,
+        "wait_time_minutes": 102.6
+      }
+    ]
+  }
+}

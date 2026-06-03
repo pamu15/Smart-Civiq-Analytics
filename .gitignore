@@ -1,0 +1,24 @@
+# CiviQ Que — Git Ignore
+# ========================
+# This file tells Git to NEVER upload these files
+
+# Environment variables (contains private keys)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model files (too large for GitHub)
+models/*.pkl
+
+# Raw data (too large for GitHub)
+data/raw_queue_data.csv
+data/cleaned_queue_data.csv
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
