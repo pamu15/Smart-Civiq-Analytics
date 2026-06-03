@@ -10,3 +10,4 @@ plotly==5.17.0
 mysql-connector-python==8.1.0
 matplotlib==3.7.2
 seaborn==0.12.2
+python-dotenv
